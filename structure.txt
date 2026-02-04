@@ -1,0 +1,13 @@
+project/
+│
+├── main.py
+├── .env
+│
+├── insta_bot/
+│   └── bot.py
+│
+├── twitt_bot/
+│   └── bot.py
+│
+└── shared/
+    └── state.py   
